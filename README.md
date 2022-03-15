@@ -1,8 +1,8 @@
 THIS IS DUC ANH  PHI, dp3278@nyu.edu
 
 THIS IS THE LINK to GCP Kubernetes deployment of my sample-time app
-http://34.133.174.181:31688/time
-http://34.133.174.181:31688/
+http://34.135.94.223:31688/time
+http://34.135.94.223:31688/
 
 
 My IBM cloud account has expired and IBM has decided not to give free accounts as of Jan 1, 2022. I redeploy sample-time-app to GCP Kubernetes (Google Cloud K8s).
